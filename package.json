@@ -7,7 +7,7 @@
     "type": "git",
     "url": "https://github.com/sevenfoxes/breez.git"
   },
-  "version": "0.0.3",
+  "version": "0.0.4",
   "engines": {
     "vscode": "^0.10.5"
   },
@@ -23,7 +23,6 @@
       }
     ]
   },
-  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
