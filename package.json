@@ -3,6 +3,10 @@
   "displayName": "breez",
   "description": "theme based on manjaro's dark breeze theme",
   "publisher": "sevenfoxes",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sevenfoxes/breez.git"
+  },
   "version": "0.0.1",
   "engines": {
     "vscode": "^1.38.0"
