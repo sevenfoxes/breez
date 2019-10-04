@@ -7,9 +7,9 @@
     "type": "git",
     "url": "https://github.com/sevenfoxes/breez.git"
   },
-  "version": "0.0.1",
+  "version": "0.0.2",
   "engines": {
-    "vscode": "^1.38.0"
+    "vscode": "^0.10.5"
   },
   "categories": [
     "Themes"
